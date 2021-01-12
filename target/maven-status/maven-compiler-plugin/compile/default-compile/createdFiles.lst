@@ -1,0 +1,6 @@
+org/springframework/hateoas/examples/Employee.class
+org/springframework/hateoas/examples/SpringHateoasBasicsApplication.class
+org/springframework/hateoas/examples/EmployeeRepresentationModelAssembler.class
+org/springframework/hateoas/examples/EmployeeRepository.class
+org/springframework/hateoas/examples/EmployeeController.class
+org/springframework/hateoas/examples/DatabaseLoader.class
